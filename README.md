@@ -1,4 +1,4 @@
-# test
+# LinkIt ONE FAQ
 **Q: Windows cannot detect the USB COM port of LinkIt ONE**
 
 **A:** Make sure the [Windows USB COM Port Driver](http://download.labs.mediatek.com/mediatek_linkit_windows-com-port-driver.zip) is installed, and the MS <-> UART switch is in UART mode. Then plug in the LinkIt ONE board.
